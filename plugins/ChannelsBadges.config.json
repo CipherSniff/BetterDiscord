@@ -1,0 +1,35 @@
+{
+    "CBsettings": {
+        "version": "1.1.4",
+        "voice": {
+            "voice": true,
+            "text": true,
+            "emoji": true,
+            "voice_color": "#1ABC9C"
+        },
+        "forum": {
+            "forum": true,
+            "text": true,
+            "emoji": true,
+            "forum_color": "#206694"
+        },
+        "nsfw": {
+            "nsfw": true,
+            "text": true,
+            "emoji": true,
+            "nsfw_color": "#F23F42"
+        },
+        "rule": {
+            "rule": true,
+            "text": true,
+            "emoji": true,
+            "rule_color": "#FF9B2B"
+        },
+        "ads": {
+            "ads": true,
+            "text": true,
+            "emoji": true,
+            "ads_color": "#FF2BC2"
+        }
+    }
+}
