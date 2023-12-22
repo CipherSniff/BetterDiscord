@@ -1,0 +1,18 @@
+{
+    "currentVersionInfo": {
+        "version": "1.6.4",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "showBanner": true,
+        "bannerType": 0,
+        "showServerBannerForSplash": true,
+        "showDescription": true,
+        "showBoost": true,
+        "showInviter": true,
+        "showVerification": true,
+        "showNSFW": true,
+        "showExpire": true,
+        "bigJoinButton": true
+    }
+}
